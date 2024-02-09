@@ -5,7 +5,7 @@
 # 💫 About Me:
 I have graduated from Bangladesh University of Business and Technology with a strong interest in specializing in Frontend and React development. Committed to creating user-friendly web applications, I am known for my diligence and aptitude for rapidly understanding new concepts. My goal is to leverage my skills to contribute to innovative projects and continually grow as a developer. I am actively seeking opportunities to advance my skills within a collaborative team environment.
 - 🌱 I’m currently learning **Typescript and Redux**
-- 👨💻 All of my projects are available at [https://github.com/NaimunNahar14](https://github.com/NaimunNahar14)
+- 👩💻 All of my projects are available at [https://github.com/NaimunNahar14](https://github.com/NaimunNahar14)
 - 💬 Ask me about **ReactJS, CSS, HTML, JS**
 - 📫 How to reach me **naimunnaharshoshi @gmail.com 📧**
 - 📄 My Portfolio [https://luminous-bavarois-7b008f.netlify.app/](https://luminous-bavarois-7b008f.netlify.app/)
