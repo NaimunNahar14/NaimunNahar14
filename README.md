@@ -1,6 +1,7 @@
 <h1 align="center">AssalamuAlaikum 👋, I'm Naimun Nahar Sose 🧕</h1>
 <h3 align="center">A passionate frontend React developer from Dhaka, Bangladesh.👩💻</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
+
 
 
 # 💫 About Me:
