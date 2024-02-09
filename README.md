@@ -1,5 +1,5 @@
 <h1 align="center">AssalamuAlaikum 👋, I'm Naimun Nahar Sose 👩</h1>
-<h3 align="center">A passionate frontend React developer from Dhaka, Bangladesh.👩‍💻</h3>
+<h3 align="center">A passionate Front-end and React developer from Dhaka, Bangladesh.👩‍💻</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"> 
 
 # 💫 About Me:
