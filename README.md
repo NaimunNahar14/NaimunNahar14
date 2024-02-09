@@ -1,7 +1,6 @@
 <h1 align="center">AssalamuAlaikum 👋, I'm Naimun Nahar Sose 🧕</h1>
 <h3 align="center">A passionate frontend React developer from Dhaka, Bangladesh.👩💻</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/NaimunNahar14/NaimunNahar14/assets/121630616/bbd1e561-2bc2-4021-b05a-648c0cc65b9b)
-">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/NaimunNahar14/NaimunNahar14/assets/121630616/bbd1e561-2bc2-4021-b05a-648c0cc65b9b)">
 
 # 💫 About Me:
 I have graduated from Bangladesh University of Business and Technology with a strong interest in specializing in Frontend and React development. Committed to creating user-friendly web applications, I am known for my diligence and aptitude for rapidly understanding new concepts. My goal is to leverage my skills to contribute to innovative projects and continually grow as a developer. I am actively seeking opportunities to advance my skills within a collaborative team environment.**
